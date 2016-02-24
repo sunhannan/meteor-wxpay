@@ -2,7 +2,7 @@ Package.describe({
   name: 'hanagm:wxpay',
   version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'This is a library to use weixin pay',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/hanagm/meteor-wxpay',
   // By default, Meteor will default to using README.md for documentation.
